@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location Tracking Application</string>
+    <string name="users_profile">Users profile</string>
+    <string name="users_name">Users name</string>
+    <string name="title">Please choose your profile since there is no Login page for now :) </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map_history">Map</string>
+</resources>
